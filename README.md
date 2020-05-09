@@ -1,0 +1,2 @@
+# Abp
+.net core abp
